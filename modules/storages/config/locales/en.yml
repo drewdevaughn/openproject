@@ -20,7 +20,6 @@ en:
               not_allowed: "The %{username} doesn't have access to the %{group_folder}. Please check the folder permissions on Nextcloud"
             remove_user_from_group:
               failed_to_remove: "The user %{user} could not be removed from the %{group} group for the following reason: %{reason}"
-
   activerecord:
     attributes:
       storages/file_link:
